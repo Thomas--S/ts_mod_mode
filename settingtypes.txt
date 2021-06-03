@@ -1,4 +1,3 @@
-# The priv needed to spawn dummies
 ts_mod_mode.priv (Priv for moderators) string ban
 ts_mod_mode.elevated_privs (Comma separated list of elevated privs for moderators) string teleport,bring,noclip,fly,fast,basic_privs
 ts_mod_mode.discord_webhook (Discord webhook URL for reporting priv elevations) string
